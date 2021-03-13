@@ -1,2 +1,1 @@
-#basic python progrqams
-#hii agian
+#basic python programs
